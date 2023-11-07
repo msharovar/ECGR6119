@@ -1,0 +1,7 @@
+midterm_msharova.ipynb - contains training and evaluation of Model A. Model A was created using a VGG16
+			 transfer learning on a dogs-vs-cats dataset located at https://www.kaggle.com/c/dogs-vs-cats/data
+			 Model A was trained with 100 epochs and achieved the following metrics:
+			 loss: 0.2832 - acc: 0.8828 - f1_m: 0.4555 - precision_m: 0.4952 - recall_m: 0.4225
+
+midterm_gan_msharova.ipynb - contains training of SRGAN. SRGAN was trained on a tenserflow dataset 'cats_vs_dogs'.
+			     The SRGAN was trained on 150 epochs.
